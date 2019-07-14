@@ -1,5 +1,7 @@
 ## やること
 
+リアルタイム : https://hackmd.io/@-N-Icyg_Qfec7YB-0lZ9MQ/B18CMMw-H
+
 - [x] Flutter の環境を作る
 - [x] Hello World をする
 - [ ] https://github.com/takao-giken/no-timeline に contribute する
