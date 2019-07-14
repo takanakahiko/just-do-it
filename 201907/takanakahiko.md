@@ -1,7 +1,7 @@
 ## やること
 
-- [ ] Flutter の環境を作る
-- [ ] Hello World をする
+- [x] Flutter の環境を作る
+- [x] Hello World をする
 - [ ] https://github.com/takao-giken/no-timeline に contribution する
 
 ## Flutterに飽きたら
