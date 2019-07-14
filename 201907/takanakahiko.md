@@ -2,7 +2,7 @@
 
 - [x] Flutter の環境を作る
 - [x] Hello World をする
-- [ ] https://github.com/takao-giken/no-timeline に contribution する
+- [ ] https://github.com/takao-giken/no-timeline に contribute する
 
 ## Flutterに飽きたら
 
